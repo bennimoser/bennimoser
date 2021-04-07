@@ -1,9 +1,8 @@
 # Hi there 👋
 
-## Github Stats
-[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=bennimoser&theme=solarized-dark)](https://github.com/bennimoser)
+![Benni's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennimoser&show_icons=true&theme=dracula)
 
-[![Github Streaks](https://github-readme-stats.vercel.app/api?username=bennimoser&theme=solarized-dark&show_icons=true&line_height=27&count_private=true)](https://github.com/bennimoser)
+[![Benni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=6611e709-5286-46a8-b242-2c2d50979986)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Visitors
 
