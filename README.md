@@ -9,4 +9,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bennimoser&show_icons=true&theme=dracula&count_private=true" /> </p>
 
-<p align="left">Visitors: <img src="https://visitor-badge.glitch.me/badge?page_id=bennimoser.visitor-badge" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=bennimoser.visitor-badge" />
