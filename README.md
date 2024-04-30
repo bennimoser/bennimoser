@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<p align="center">I am a 22 year old Computer Science Student from Austria and I am mostly using C#, Angular and .NET.</p>
+<p align="center">I am a 23 year old Computer Science Student from Austria and I am mostly using C#, .NET and Blazor.</p>
 <h2 align="center">Achievments</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bennimoser" alt="bennimoser" /></a> </p>
 
