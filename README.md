@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽 I am Benni, 23 years old<br>👨‍💻 Employed as C#-Developer<br>🧑‍🎓 Currently studying Cloud-Computing on FH Burgenland<br>🏎️ Intrested in Software Development, Cloud and Motorsports
+👨🏽 I am Benni, 25 years old<br>👨‍💻 Employed as C#-Developer<br>🧑‍🎓 Currently studying Cloud-Computing on University of Applied Sciences Burgenland<br>🏎️ Intrested in Software Development, Cloud and Motorsports
 
 
 ## 🌐 Socials:
